@@ -1,7 +1,7 @@
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://i.imgur.com/sqFpI1K.jpeg" width="100%" style="max-width:300px;" />
+      <img src="https://i.imgur.com/sqFpI1K.jpeg" width="100%" style="max-width:100%;" />
     </td>
     <td width="50%" valign="top">
       <h1>Emilly Athos</h1>
