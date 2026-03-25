@@ -1,9 +1,9 @@
-<table style="width:100%; table-layout: fixed;">
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="width:50%; vertical-align:top;">
-      <img src="https://i.imgur.com/sqFpI1K.jpeg" style="width:100%; height:100%; object-fit:contain;" />
+    <td width="50%" valign="top">
+      <img src="https://i.imgur.com/sqFpI1K.jpeg" width="100%" style="max-width:300px;" />
     </td>
-    <td style="width:50%; vertical-align:top; padding-left:20px;">
+    <td width="50%" valign="top">
       <h1>Emilly Athos</h1>
       <p>Hey! I'm an aspiring data analyst with a strong curiosity for how things work,<br>
       from numbers to music, from systems to meaning.</p>
@@ -18,7 +18,7 @@
       <h3>Skills and Tools</h3>
       <ul>
         <li>SQL, Python</li>
-        <li>MySQL, PostgreSQL, MONGODB, Plotply, Matplotlib</li>
+        <li>MySQL, PostgreSQL, MONGODB, Plotly, Matplotlib</li>
         <li>Data visualization</li>
         <li>Office, Figma, Adobe CC</li>
       </ul>
