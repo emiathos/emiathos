@@ -22,10 +22,6 @@
         <li>Data visualization</li>
         <li>Office, Figma, Adobe CC</li>
       </ul>
-      <h3>Connect</h3>
-      <ul>
-        <li>github: emiathos</li>
-      </ul>
     </td>
   </tr>
 </table>
