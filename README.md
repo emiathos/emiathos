@@ -13,12 +13,10 @@
         <li>Data analysis and visualization</li>
         <li>Pattern recognition</li>
         <li>Systems and logic</li>
-        <li>Music theory and structure</li>
       </ul>
       <h3>Skills and Tools</h3>
       <ul>
-        <li>SQL, Python</li>
-        <li>MySQL, PostgreSQL, MONGODB, Plotly, Matplotlib</li>
+        <li>SQL, Python. MySQL, PostgreSQL, MONGODB, Plotly, Matplotlib</li>
         <li>Data visualization</li>
         <li>Microsoft Office, Figma, Adobe Creative Cloud</li>
       </ul>
