@@ -1,16 +1,31 @@
-## Hi there 👋
-
-<!--
-**emiathos/emiathos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="width:100%; table-layout: fixed;">
+  <tr>
+    <td style="width:50%; vertical-align:top;">
+      <img src="https://i.imgur.com/sqFpI1K.jpeg" style="width:100%; height:100%; object-fit:contain;" />
+    </td>
+    <td style="width:50%; vertical-align:top; padding-left:20px;">
+      <h1>Emilly Athos</h1>
+      <p>Hey! I'm an aspiring data analyst with a strong curiosity for how things work,<br>
+      from numbers to music, from systems to meaning.</p>
+      <p>I'm currently focused on building a solid foundation in data analysis while creating small projects and exploring technology in a deeper way.</p>
+      <h3>What I Explore</h3>
+      <ul>
+        <li>Data analysis and visualization</li>
+        <li>Pattern recognition</li>
+        <li>Systems and logic</li>
+        <li>Music theory and structure</li>
+      </ul>
+      <h3>Skills and Tools</h3>
+      <ul>
+        <li>SQL, Python</li>
+        <li>MySQL, PostgreSQL, MONGODB, Plotply, Matplotlib</li>
+        <li>Data visualization</li>
+        <li>Office, Figma, Adobe CC</li>
+      </ul>
+      <h3>Connect</h3>
+      <ul>
+        <li>github: emiathos</li>
+      </ul>
+    </td>
+  </tr>
+</table>
