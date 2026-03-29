@@ -5,7 +5,7 @@
     </td>
     <td width="50%" valign="top">
       <h1>Emilly Athos</h1>
-      <p>Hey! I'm an aspiring data analyst with a strong curiosity for how things work,
+      <p>I'm an aspiring data analyst with a strong curiosity for how things work,
       from numbers to music, from systems to meaning. <b>Currently pursuing a degree in Systems Analysis and Development at Belas Artes University, São Paulo, Brazil.</b> </p>
       <p>I'm focused on building a solid foundation in data analysis while creating small projects and exploring technology in a deeper way.</p>
       <h3>What I Explore</h3>
